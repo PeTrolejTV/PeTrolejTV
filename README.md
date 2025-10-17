@@ -1,3 +1,19 @@
+## About Me  
+
+Hey there! I’m a **developer**, **designer**, and **creative experimenter** who loves blending code, art, and storytelling.  
+My projects range from **polished applications** to **spontaneous creative experiments** — sometimes sleek and functional, sometimes just fun ideas brought to life.  
+
+I enjoy exploring different areas like **programming**, **anime-inspired design**, **digital art**, and the occasional **game or visual concept**.
+Most of what I build comes from pure curiosity — trying things out, learning along the way, and sharing what works (and what doesn’t).
+
+When I’m not coding or creating, I’m probably **playing games**, **watching something inspiring (or completely random)**, or just **recharging with some good music**.
+
+---
+
+*Always experimenting. Always learning. Always creating.*
+
+---
+
 ## Languages and Tools
 
 [![My Skills](https://skillicons.dev/icons?i=unity,blender,ps,pr,ai,vscode,html,css,vue,nodejs,py,java,mysql,androidstudio,robloxstudio)](https://skillicons.dev)
