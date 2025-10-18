@@ -28,40 +28,37 @@ When I’m not coding or creating, I’m probably **playing games**, **watching 
   <tr>
     <td align="center" width="33%">
       <a href="https://github.com/PeTrolejTV/Love-Me-Not">
-        <img src="https://github.com/PeTrolejTV/Love-Me-Not/blob/main/design_concept.png"
+        <img src="https://github.com/PeTrolejTV/Love-Me-Not/blob/main/LoveMeNot/gallery/design_concept.png"
              alt="Pygame Anti-Dating Sim"
              style="width:100%; height:200px; object-fit:cover;"/>
       </a>
       <br/>
       <b>Pygame Anti-Dating Sim</b><br/>
       <sub>In Love Me Not, your goal is to survive. As her affection increases, so does the threat level.</sub><br/>
-      🔗 <a href="https://github.com/PeTrolejTV/Love-Me-Not">Repo</a>
       <br/>
       <sub>Tags: Pygame, Anti-Dating, Simulator, Game</sub>
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/PeTrolejTV/Love-Me-Not">
-        <img src="https://github.com/PeTrolejTV/Love-Me-Not/blob/main/design_concept.png"
+        <img src="https://github.com/PeTrolejTV/Love-Me-Not/blob/main/LoveMeNot/gallery/design_concept.png"
              alt="Pygame Anti-Dating Sim"
              style="width:100%; height:200px; object-fit:cover;"/>
       </a>
       <br/>
       <b>Pygame Anti-Dating Sim</b><br/>
       <sub>In Love Me Not, your goal is to survive. As her affection increases, so does the threat level.</sub><br/>
-      🔗 <a href="https://github.com/PeTrolejTV/Love-Me-Not">Repo</a>
       <br/>
       <sub>Tags: Pygame, Anti-Dating, Simulator, Game</sub>
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/PeTrolejTV/Love-Me-Not">
-        <img src="https://github.com/PeTrolejTV/Love-Me-Not/blob/main/design_concept.png"
+        <img src="https://github.com/PeTrolejTV/Love-Me-Not/blob/main/LoveMeNot/gallery/design_concept.png"
              alt="Pygame Anti-Dating Sim"
              style="width:100%; height:200px; object-fit:cover;"/>
       </a>
       <br/>
       <b>Pygame Anti-Dating Sim</b><br/>
       <sub>In Love Me Not, your goal is to survive. As her affection increases, so does the threat level.</sub><br/>
-      🔗 <a href="https://github.com/PeTrolejTV/Love-Me-Not">Repo</a>
       <br/>
       <sub>Tags: Pygame, Anti-Dating, Simulator, Game</sub>
     </td>
