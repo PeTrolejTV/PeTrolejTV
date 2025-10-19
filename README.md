@@ -39,16 +39,16 @@ When I’m not coding or creating, I’m probably **playing games**, **watching 
       <sub>Tags: Pygame, Anti-Dating, Simulator, Game</sub>
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/PeTrolejTV/Love-Me-Not">
-        <img src="https://github.com/PeTrolejTV/Love-Me-Not/blob/main/LoveMeNot/gallery/design_concept.png"
-             alt="Pygame Anti-Dating Sim"
+      <a href="https://github.com/PeTrolejTV/Untitled-MoorHuhn-Game">
+        <img src="https://github.com/PeTrolejTV/Untitled-MoorHuhn-Game/blob/main/UntitledMoorHuhnGame/gallery/MainMenuPreview.png"
+             alt="JavaFX Arcade Shooter"
              style="width:100%; height:200px; object-fit:cover;"/>
       </a>
       <br/>
-      <b>Pygame Anti-Dating Sim</b><br/>
-      <sub>In Love Me Not, your goal is to survive. As her affection increases, so does the threat level.</sub><br/>
+      <b>JavaFX Arcade Shooter</b><br/>
+      <sub>Dive into a frantic arcade world where time is against you! Hunt flying chickens, grab power-ups, and roast your targets with precision.</sub><br/>
       <br/>
-      <sub>Tags: Pygame, Anti-Dating, Simulator, Game</sub>
+      <sub>Tags: JavaFX, Arcade, Shooter, Game</sub>
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/PeTrolejTV/Love-Me-Not">
