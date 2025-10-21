@@ -72,4 +72,4 @@ When I’m not coding or creating, I’m probably **playing games**, **watching 
 [![PeTrolejTV's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=petrolejtv&include_all_commits=true&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/petrolejtv/github-readme-stats#gh-dark-mode-only)
 [![PeTrolejTV's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=petrolejtv&include_all_commits=true&&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/petrolejtv/github-readme-stats#gh-light-mode-only)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=petrolejtv&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PeTrolejTV&layout=compact)
