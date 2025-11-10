@@ -34,7 +34,7 @@ When I’m not coding or creating, I’m probably **playing games**, **watching 
       </a>
       <br/>
       <b>Pygame Anti-Dating Sim</b><br/>
-      <sub>In Love Me Not, your goal is to survive. As her affection increases, so does the threat level.</sub><br/>
+      <sub>In a world where love is deadly, survival means rejection. In Love Me Not, you must outwit an obsessive yandere desperate for your affection.</sub><br/>
       <br/>
       <sub>Tags: Pygame, Anti-Dating, Simulator, Game</sub>
     </td>
