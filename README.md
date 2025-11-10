@@ -51,16 +51,16 @@ When I’m not coding or creating, I’m probably **playing games**, **watching 
       <sub>Tags: JavaFX, Arcade, Shooter, Game</sub>
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/PeTrolejTV/Love-Me-Not">
-        <img src="https://github.com/PeTrolejTV/Love-Me-Not/blob/main/LoveMeNot/gallery/design_concept.png"
-             alt="Pygame Anti-Dating Sim"
+      <a href="https://github.com/PeTrolejTV/Slay-Her">
+        <img src="https://github.com/PeTrolejTV/Slay-Her/blob/main/SlayHer/gallery/Introduction.png"
+             alt="C Text-Adventure Story Game"
              style="width:100%; height:200px; object-fit:cover;"/>
       </a>
       <br/>
-      <b>Pygame Anti-Dating Sim</b><br/>
-      <sub>In Love Me Not, your goal is to survive. As her affection increases, so does the threat level.</sub><br/>
+      <b>C Text-Adventure Story Game</b><br/>
+      <sub>Venture into a dark, mystical castle to face the Queen of Hell! Explore hidden chambers, treacherous halls, and secret passages.</sub><br/>
       <br/>
-      <sub>Tags: Pygame, Anti-Dating, Simulator, Game</sub>
+      <sub>Tags: C, Text-Adventure, RPG, Terminal, Game</sub>
     </td>
   </tr>
 </table>
