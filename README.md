@@ -18,7 +18,7 @@ When I’m not coding or creating, I’m probably **playing games**, **watching 
 
 [![My Skills](https://skillicons.dev/icons?i=unity,blender,ps,pr,ai,vscode,html,css,vue,nodejs,py,java,mysql,androidstudio,robloxstudio)](https://skillicons.dev)
 
-**Also working with**: Microsoft Office 365, LibreOffice, DaVinci Resolve, Audacity and OBS Studio.
+**Also working with**: Microsoft Office 365, LibreOffice, Krita, Kdenlive, Audacity and OBS Studio.
 
 ---
 
@@ -61,6 +61,20 @@ When I’m not coding or creating, I’m probably **playing games**, **watching 
       <sub>Venture into a dark, mystical castle to face the Queen of Hell! Explore hidden chambers, treacherous halls, and secret passages.</sub><br/>
       <br/>
       <sub>Tags: C, Text-Adventure, RPG, Terminal, Game</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://github.com/PeTrolejTV/Hatsune-Miku-Virtual-Universe">
+        <img src="https://github.com/PeTrolejTV/Hatsune-Miku-Virtual-Universe/blob/main/public/images/gallery/HomePage.png"
+             alt="Vue 3 (Options API) & Pinia Website"
+             style="width:100%; height:200px; object-fit:cover;"/>
+      </a>
+      <br/>
+      <b>Vue 3 (Options API) & Pinia Website</b><br/>
+      <sub>A high-performance Hatsune Miku portal, architected with a mobile-first approach, persistent wishlists, and seamless route transitions for a premium UX.</sub><br/>
+      <br/>
+      <sub>Tags: Vue, E-Shop, Hatsune Miku, Website</sub>
     </td>
   </tr>
 </table>
