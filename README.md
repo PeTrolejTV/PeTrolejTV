@@ -18,7 +18,7 @@ When I’m not coding or creating, I’m probably **playing games**, **watching 
 
 [![My Skills](https://skillicons.dev/icons?i=unity,blender,ps,pr,ai,vscode,html,css,vue,nodejs,py,java,mysql,androidstudio,robloxstudio)](https://skillicons.dev)
 
-**Also working with**: Microsoft Office 365, LibreOffice, Krita, Kdenlive, Audacity and OBS Studio.
+**Also working with**: Microsoft Office 365, LibreOffice, Krita, Inkscape, Kdenlive, Audacity and OBS Studio.
 
 ---
 
