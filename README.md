@@ -86,7 +86,7 @@ When I’m not coding or creating, I’m probably **playing games**, **watching 
       <b>3D Modeling in Games - Bachelor Thesis</b><br/>
       <sub>3D modeling has greatly influenced the gaming experience and has become an important aspect of game development.</sub><br/>
       <br/>
-      <sub>Tags: 3D Modeling, Games, Graphic Tools, Blender, Unity</sub>
+      <sub>Tags: 3D Modeling, Games, Graphic Tools, Unity</sub>
     </td>
   </tr>
 </table>
