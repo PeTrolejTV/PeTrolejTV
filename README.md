@@ -76,6 +76,18 @@ When I’m not coding or creating, I’m probably **playing games**, **watching 
       <br/>
       <sub>Tags: Vue, E-Shop, Hatsune Miku, Website</sub>
     </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/PeTrolejTV/3D-modelling-in-games">
+        <img src="https://github.com/PeTrolejTV/3D-modelling-in-games/blob/main/Barrelbound/Images/menu_screenshot.png"
+             alt="3D Modeling in Games - Bachelor Thesis"
+             style="width:100%; height:200px; object-fit:cover;"/>
+      </a>
+      <br/>
+      <b>3D Modeling in Games - Bachelor Thesis</b><br/>
+      <sub>3D modeling has greatly influenced the gaming experience and has become an important aspect of game development.</sub><br/>
+      <br/>
+      <sub>Tags: 3D Modeling, Games, Graphic Tools, Blender, Unity</sub>
+    </td>
   </tr>
 </table>
 
